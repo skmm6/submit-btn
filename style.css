@@ -6,7 +6,6 @@
 
 body {
     background-color: #181818;
-    font-family: 'Montserrat', sans-serif !important;
 }
 
 .box {
@@ -30,6 +29,7 @@ body {
 }
 
 .btn-primary {
+    font-family: 'Montserrat', sans-serif;
     background: linear-gradient(85.17deg, 
     rgb(138, 34, 133) 0%, 
     rgb(232, 64, 87) 50%, 
